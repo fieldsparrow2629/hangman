@@ -1,0 +1,13 @@
+Types of Fruit
+Lemon
+Pineapple
+Pear
+Banana
+Mango
+Apple
+Papaya
+Grapefruit
+Grape
+Peach
+Cherry
+Orange
